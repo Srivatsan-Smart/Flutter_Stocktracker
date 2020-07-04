@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412058355708",
+    "firebase_url": "https://stocktrackerapp-1c68b.firebaseio.com",
+    "project_id": "stocktrackerapp-1c68b",
+    "storage_bucket": "stocktrackerapp-1c68b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412058355708:android:b92ce6f9a9730937641479",
+        "android_client_info": {
+          "package_name": "com.vatsan.stocktrackerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412058355708-15b589sm4ces2eptn8nsalhu5k0ps3bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3sEHVA111NyqpVVnOLHMlSD2RNPyrmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412058355708-15b589sm4ces2eptn8nsalhu5k0ps3bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
